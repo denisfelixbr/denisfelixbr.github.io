@@ -1,0 +1,57 @@
+#header {  
+	width:100px;
+	heith:40px;
+}
+#footer {
+    background-color:black;
+    color:white;
+    clear:both;
+    text-align:center;
+	width:960px;
+	font-size:12px;
+}
+#section {
+    width:600px;
+    float:auto;
+    padding:15px; 
+}
+
+#section_iFrame {
+    width:1000px;
+	heigth:800px;
+    float:auto;
+    padding:15px; 
+}
+
+#table {
+    display: table;
+	width: 90%;
+	padding:15px;
+}
+ 
+#title {
+    display: table-caption;
+    text-align: left;
+    font-weight: bold;
+    font-size: larger;
+	padding:15px;
+}
+
+#heading {
+	display: table-row;
+    font-weight: bold;
+    text-align: center;
+	clear:both;
+}
+
+#row {
+    display: table-row;
+	text-align: left;
+}
+
+#cell {
+    display: table-cell;
+    border: solid;
+    border-width: thin;
+    padding-left: 4px;	    
+}
